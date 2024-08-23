@@ -1,0 +1,7 @@
+{
+	"app_type" : "web",
+	"name" : "Web",
+	"description" : "Application type web can be used to host any web resource.",
+	"version" : "0.0.0",
+	"repo" : "https://github.com/sp-modules/web"
+}
